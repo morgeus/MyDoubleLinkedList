@@ -1,0 +1,14 @@
+C:\Users\Samet UCA\source\repos\DoubleLinketList\DoubleLinketList\bin\Debug\DoubleLinketList.exe.config
+C:\Users\Samet UCA\source\repos\DoubleLinketList\DoubleLinketList\bin\Debug\DoubleLinketList.exe
+C:\Users\Samet UCA\source\repos\DoubleLinketList\DoubleLinketList\bin\Debug\DoubleLinketList.pdb
+C:\Users\Samet UCA\source\repos\DoubleLinketList\DoubleLinketList\obj\Debug\DoubleLinketList.csproj.AssemblyReference.cache
+C:\Users\Samet UCA\source\repos\DoubleLinketList\DoubleLinketList\obj\Debug\DoubleLinketList.csproj.CoreCompileInputs.cache
+C:\Users\Samet UCA\source\repos\DoubleLinketList\DoubleLinketList\obj\Debug\DoubleLinketList.exe
+C:\Users\Samet UCA\source\repos\DoubleLinketList\DoubleLinketList\obj\Debug\DoubleLinketList.pdb
+C:\Users\Samet UCA\Desktop\DoubleLinketList\DoubleLinketList\DoubleLinketList\bin\Debug\DoubleLinketList.exe.config
+C:\Users\Samet UCA\Desktop\DoubleLinketList\DoubleLinketList\DoubleLinketList\bin\Debug\DoubleLinketList.exe
+C:\Users\Samet UCA\Desktop\DoubleLinketList\DoubleLinketList\DoubleLinketList\bin\Debug\DoubleLinketList.pdb
+C:\Users\Samet UCA\Desktop\DoubleLinketList\DoubleLinketList\DoubleLinketList\obj\Debug\DoubleLinketList.csproj.AssemblyReference.cache
+C:\Users\Samet UCA\Desktop\DoubleLinketList\DoubleLinketList\DoubleLinketList\obj\Debug\DoubleLinketList.csproj.CoreCompileInputs.cache
+C:\Users\Samet UCA\Desktop\DoubleLinketList\DoubleLinketList\DoubleLinketList\obj\Debug\DoubleLinketList.exe
+C:\Users\Samet UCA\Desktop\DoubleLinketList\DoubleLinketList\DoubleLinketList\obj\Debug\DoubleLinketList.pdb
